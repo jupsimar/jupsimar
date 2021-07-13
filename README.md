@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jupsimar
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning various tech and programming 
+- 🌱 I’m currently learning various tech and programming languages
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
