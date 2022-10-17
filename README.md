@@ -28,8 +28,6 @@ R ,BI and Python ninja. Data and DevOps enthusiast using various Web technologie
 
 <a href="https://www.linkedin.com/in/jupsimarsingh"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="16"/></a> [LinkedIn](https://www.linkedin.com/in/jupsimarsingh/)
 
-<a href="mailto:jupsimar.singh@gmail.com"><img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI" width="16"/></a> [Email](mailto:jupsimar.singh@gmail.com)
-
 
 <!--
 jupsimar/jupsimar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
