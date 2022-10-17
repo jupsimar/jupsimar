@@ -50,22 +50,14 @@ You can click the Preview link to take a look at your changes.
 
 ## Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-<!--
+
 ### My Github Stats 📊
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jupsimar&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jupsimar&theme=gruvbox&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jupsimar&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jupsimar&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jupsimar&theme=gruvbox)
 
-[![](https://raw.githubusercontent.com/jupsimar/jupsimar/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-<!--
-For future use
-<a href="https://www.instagram.com/hemant.gz/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://leetcode.com//">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
--->
 
 ---
 
