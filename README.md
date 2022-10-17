@@ -14,7 +14,7 @@
 
 R ,BI and Python ninja. Data and DevOps enthusiast using various Web technologies . 
 🔭 I’m working as a Data Analyst and Intergation Specilaist at City of Sudbury and I'm passionate about all things BI, Azure Analysis Services and PowerShell Automation .
-🌱 I’m currently learning more about Power BI REST APIs , Community & Demographic Data ,Financial data and forecasting in Python .Working hevay on Writing PowerShell Scripts for Power BI.
+🌱 I’m currently learning more about Power BI REST APIs , Community & Demographic Data ,Financial data and forecasting in Python .Working on Writing PowerShell Scripts for Power BI.
 💞️ Passionate about helping people get into Data Analysis and sharing my learnings in DevOps. 
 💬 Ask me about Power BI, ,Devops and DAX and Best Practices to Improve Power BI Performance and Design.
 🌱 I’m looking to collaborate on Machine Learning , Artitectural Framework and creating cool Flask based application on Python
@@ -43,11 +43,9 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-## Contributors Badge
-![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)
-
 ## Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+---
 
 ### My Github Stats 📊
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jupsimar&theme=gruvbox)
