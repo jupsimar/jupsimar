@@ -45,8 +45,6 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-## Profile View Counter
-![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
 ## Contributors Badge
 ![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)
 
