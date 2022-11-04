@@ -54,6 +54,7 @@ You can click the Preview link to take a look at your changes.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jupsimar&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jupsimar&theme=gruvbox)
 
-
+### Hacks 📊
+[![@jupsimar's Holopin board](https://holopin.me/jupsimar)](https://holopin.io/@jupsimar)
 ---
 
