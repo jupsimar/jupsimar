@@ -13,7 +13,7 @@
 ### :man_technologist: &nbsp;About Me :
 
 R ,BI and Python ninja. Data and DevOps enthusiast using various Web technologies . 
-🔭 I’m working as a Data Analyst and Intergation Specilaist at City of Sudbury and I'm passionate about all things BI, Azure Analysis Services and PowerShell Automation .
+🔭 I’m working as a Data Intergation Specilaist and Data Analyst While am passionate about all things BI, Azure Analysis Services and PowerShell Automation .
 🌱 I’m currently learning more about Power BI REST APIs , Community & Demographic Data ,Financial data and forecasting in Python .Working on Writing PowerShell Scripts for Power BI.
 💞️ Passionate about helping people get into Data Analysis and sharing my learnings in DevOps. 
 💬 Ask me about Power BI, ,Devops and DAX and Best Practices to Improve Power BI Performance and Design.
